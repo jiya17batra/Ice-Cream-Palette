@@ -21,7 +21,6 @@ It’s a reminder that inspiration hides in ordinary moments.
 
 🔗 **View the Project Here:**  
 https://jiya17batra.github.io/Ice-Cream-Palette/
-
 ---
 
 ## 🎨 Design Concept
