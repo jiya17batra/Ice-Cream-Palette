@@ -1,10 +1,10 @@
-# 🍨 Ice Cream Palette
+# 🍨 Ice Cream Platte
 ## 🍦 The Idea Behind It
 
 This project was born during a painting session.
 
 While enjoying an ice cream break, I noticed something fun —  
-my paint palette had the same tones as my ice cream:
+my paint platte had the same tones as my ice cream:
 
 - 🍫 **Chocolate (Black)**  
 - 🍨 **Vanilla (White)**  
@@ -20,7 +20,7 @@ It’s a reminder that inspiration hides in ordinary moments.
 ## 🌐 View
 
 🔗 **View the Project Here:**  
-https://jiya17batra.github.io/ice-cream-palette/
+https://jiya17batra.github.io/ice-cream-platte/
 
 ---
 
